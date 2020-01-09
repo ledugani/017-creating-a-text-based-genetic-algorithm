@@ -5,12 +5,27 @@
 
 Hello World
 
-genes = A-Z, a-z, space, ', -, ., ?, !
+genes = [all lowercase letter, all uppercase letters, all punctuation]
 
-const letters = 'abcdefghijklmnopqrstuvwxyz'
+# seed & score
+aehjsd ojdd => 3
+... 1000 random specimens
+Hfloo oordd => 5
 
-const genes = [
-  ...letters.split(''),
-  ...letters.split('').map(letter => letter.toUpperCase()),
-  ...',.?! '.split(')
-]
+# breeding
+const m = 'aehjsd ojdd'
+const f = 'Hfloo oordd'
+
+m.split(').map((letter, i) => {
+  return Math.random() >= 0.5 ? m[i] : f[i]
+})
+
+# mutation
+
+child = 'Hehoss ojrd'
+Math.random() > 0.999
+child.split('').map((lett, i) => {
+  return Math.random > 0.999 ? getRandomGene() : child[i]
+})
+
+# iteration, score, breed, mutation
