@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/precache-manifest.66d3801d6bdba5a9032db82466c000bc.js"
+  "/017-creating-a-text-based-genetic-algorithm/precache-manifest.0f93e99469d1a3871a3d4b90cf5f8fce.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("ledugani.github.io/017-creating-a-text-based-genetic-algorithm/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/017-creating-a-text-based-genetic-algorithm/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
