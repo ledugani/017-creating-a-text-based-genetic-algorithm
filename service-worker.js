@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/017-creating-a-text-based-genetic-algorithm/precache-manifest.0f93e99469d1a3871a3d4b90cf5f8fce.js"
+  "/017-creating-a-text-based-genetic-algorithm/precache-manifest.2c4bc739664df83556ea8c6f3bfaeb63.js"
 );
 
 self.addEventListener('message', (event) => {
