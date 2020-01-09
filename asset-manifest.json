@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/main.a5c1624f.chunk.js",
+    "main.js.map": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/main.a5c1624f.chunk.js.map",
+    "runtime-main.js": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/runtime-main.4e96477f.js",
+    "runtime-main.js.map": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/runtime-main.4e96477f.js.map",
+    "static/js/2.841939d1.chunk.js": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/2.841939d1.chunk.js",
+    "static/js/2.841939d1.chunk.js.map": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/2.841939d1.chunk.js.map",
+    "index.html": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/index.html",
+    "precache-manifest.66d3801d6bdba5a9032db82466c000bc.js": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/precache-manifest.66d3801d6bdba5a9032db82466c000bc.js",
+    "service-worker.js": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.841939d1.chunk.js.LICENSE": "ledugani.github.io/017-creating-a-text-based-genetic-algorithm/static/js/2.841939d1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e96477f.js",
+    "static/js/2.841939d1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a5c1624f.chunk.js"
+  ]
+}
