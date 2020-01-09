@@ -13,3 +13,5 @@ class Specimen {
     return score
   }
 }
+
+export default Specimen

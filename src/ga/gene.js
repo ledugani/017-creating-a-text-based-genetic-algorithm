@@ -1,5 +1,5 @@
 class Gene {
-  constructor(attrs={}) {
+  constructor(attr={}) {
     this.fitness = attr.fitness || -1
     this.value = attr.value
   }
